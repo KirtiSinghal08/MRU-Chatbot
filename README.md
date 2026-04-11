@@ -5,6 +5,7 @@ An intelligent and interactive AI chatbot designed to assist students with infor
 
 <img width="1917" height="1028" alt="image" src="https://github.com/user-attachments/assets/7e774a56-a7fc-4daf-81b4-05b8b0e9dc12" />
 
+
 #Features
 1. Interactive Chat Interface
 2. Covers Major Student Queries
